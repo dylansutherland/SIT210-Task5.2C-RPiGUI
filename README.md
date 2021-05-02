@@ -1,1 +1,1 @@
-# SIT210-Task5.2C-RPiGUI-
+# SIT210-Task5.2C-RPiGUI
